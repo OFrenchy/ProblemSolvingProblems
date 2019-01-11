@@ -1,0 +1,61 @@
+body {
+  background-color: lightblue;
+}
+
+h3 {
+	color: black;
+	/*text-align: left;*/
+	font-family: arial;
+}
+h2 {
+	color:black;
+	/*text-align: left;*/
+	font-family: arial;
+}
+h1 {
+  	color: black;
+	/*text-align: left;*/
+	font-family: arial;
+}
+
+.h3c {
+	color: black;
+	text-align: center;
+	font-family: arial;
+}
+.h2c {
+	color: black;
+	text-align: center;
+	font-family: arial;
+}
+.h1c {
+  	color: black;
+	text-align: center;
+	font-family: arial;
+}
+
+.navbar-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /*overflow: hidden;*/
+  /*background-color: #333333;*/
+}
+
+.navbar-item-left {
+  float: left;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.oldstyle {
+	font-family: engravers;
+	font-weight: bold;
+}
